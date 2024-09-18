@@ -1,4 +1,5 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Swaroop Singh
+Author - Swaroop Singh bhati
+
